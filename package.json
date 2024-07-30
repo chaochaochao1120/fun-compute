@@ -1,0 +1,14 @@
+{
+  "name": "fun-compute",
+  "version": "1.0.0",
+  "description": "各种计算、转换方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "compute"
+  ],
+  "author": "lzc",
+  "license": "ISC"
+}
