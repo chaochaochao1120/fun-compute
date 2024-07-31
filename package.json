@@ -9,6 +9,10 @@
   "keywords": [
     "compute"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chaochaochao1120/fun-compute.git"
+  },
   "author": "lzc",
   "license": "ISC"
 }
